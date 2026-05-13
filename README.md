@@ -82,3 +82,6 @@ Me chamo Adomak Silva Oliveira, tenho 22 anos e sou natural do Estado de Sergipe
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdomakOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+
+[![Adomak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdomakOliveira&theme=github-compact)](https://github.com/AdomakOliveira/github-readme-activity-graph)
