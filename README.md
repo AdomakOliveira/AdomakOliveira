@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Me chamo Adomak Silva Oliveira, tenho 22 anos e sou natural do Estado de Sergipe. Atualmente, curso Sistemas de Informação na Universidade Federal de Sergipe. Sou um entusiasta por desenvolvimento e apaixonado por desafios.
+Me chamo Adomak Silva Oliveira, tenho 22 anos e sou natural do Estado de Sergipe. Atualmente, curso Sistemas de Informação na Universidade Federal de Sergipe. Gosto muito de programar e sempre procuro por novos desafios.
 
 <p align="left">
     <a href="https://github.com/AdomakOliveira?tab=repositories&sort=stargazers">
